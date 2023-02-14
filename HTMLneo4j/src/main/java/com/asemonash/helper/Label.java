@@ -1,0 +1,20 @@
+package com.asemonash.helper;
+
+public enum Label {
+	CONDITION,
+	OPERATION,
+	TASK,
+	OTHER,
+	INITIAL_STEP,
+	STEPS,
+	FROM,
+	TO,
+	START,
+	END,
+	HIGH_LEVEL,
+	LOW_LEVEL,
+	DAP,
+	CONDITIONAL_CHECK,
+	CONDITION_CORRECT,
+	CONDITION_INCORRECT;
+}
